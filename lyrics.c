@@ -1,0 +1,6 @@
+#include <stdio.h>
+
+int main() {
+ printf("(One, two, three, four)\n\nEverything you do it sends me\nHigher than the moon with every\nTwinkle in your eye\nYou strike a match that lights my heart on fire\n\nWhen you're near, I hide my blushing face\nAnd trip on my shoelaces\nGrace just isn't my forte\nBut it brings me to my knees when you say\n\nHello, how are you, my darling today?\nI fall into a pile on the floor\nPuppy love is hard to ignore\nWhen every little thing you do, I do adore\nWe're as different as can be\nI've noticed you're remarkably relaxed\nAnd I'm overly uptight\nWe balance out each other nicely\n\nYou wear sandals in the snow\nIn mid-July I still feel cold\nWe're opposites in every way\nBut I can't resist it when you say\n\nHello, how are you my darling today?\nI fall into a pile on the floor\nPuppy love is hard to ignore\nWhen every little thing you do I do adore\n\nFinding words, I mutter\nTongue-tied, twisted\nFoot in mouth, I start to stutter\nHa, ha, Heaven help me\n\nHello, how are you, my darling today?\nI fall into a pile on the floor\nPuppy love is hard to ignore\nWhen every little thing you do, I do adore\nEvery little thing ba ba bap ba\nEvery little thing ba ba bap ba\nEvery little thing you do I do adore\n");
+return 0;
+}
